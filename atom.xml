@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es-es">
+    <title>Mi canal de RSS</title>
+    <link rel="alternate" type="application/atom+xml" href="https://www.xataka.com/"/>
+    <updated>2023-02-05T18:43:45Z</updated>
+    <id>https://www.xataka.com/</id>
+    <author>
+      <name>Beatriu Badia Sala</name>
+    </author>
+    <entry>
+      <title>Counter Strike sigue siendo un juego icónico dos décadas después. Y ahora puedes jugarlo gratis en tu navegador</title>
+      <link rel="alternate" type="application/atom+xml" href="https://www.xataka.com/videojuegos/counter-strike-sigue-siendo-juego-iconico-dos-decadas-despues-ahora-puedes-jugarlo-tu-navegador"/>
+      <updated>2023-02-06T16:13:30Z</updated>
+      <id>https://www.xataka.com/videojuegos/counter-strike-sigue-siendo-juego-iconico-dos-decadas-despues-ahora-puedes-jugarlo-tu-navegador</id>
+      <summary>En nuestras breves pruebas —desde macOS Ventura con Firefox, de hecho— hemos comprobado que efectivamente el funcionamiento es sorprendentemente bueno —aunque ayuda que nos conectemos a servidores más cercanos a España, como los de Alemania—.</summary>
+    </entry>
+    <entry>
+        <title>La casa del dragón</title>
+        <link rel="alternate" type="application/atom+xml" href="https://www.xataka.com/nuevo/casa-dragon-juego-tronos-hbo-serie-temporada-2-informacion"/>
+        <updated>2023-02-07T18:43:19Z</updated>
+        <id>https://www.xataka.com/nuevo/casa-dragon-juego-tronos-hbo-serie-temporada-2-informacion</id>
+        <summary>Los 20 millones de espectadores del primer episodio de 'La Casa del Dragón', la precuela de 'Juego de Tronos' que HBO estrenó en agosto de 2022, fueron más que suficientes para que el canal renovara de inmediato por una segunda temporada. Pese a las dudas iniciales, la serie acabó convenciendo como una digna continuación del revolucionario éxito de su predecesora, y aunque este primer producto derivado se hizo esperar tras unos cuantos pasos en falso, las cifras de audiencia y la recepción de la crítica dejaron claro que la franquicia está lejos de agotarse.</summary>
+      </entry>
+      <entry>
+        <title>Netflix quiere que te quedes aunque ponga fin a las cuentas compartidas: estos cambios son sus argumentos</title>
+        <link rel="alternate" type="application/atom+xml" href="https://www.xataka.com/cine-y-tv/netflix-quiere-que-te-quedes-ponga-fin-a-cuentas-compartidas-estos-cambios-sus-argumentos"/>
+        <updated>2023-02-08T09:56:06Z</updated>
+        <id>https://www.xataka.com/cine-y-tv/netflix-quiere-que-te-quedes-ponga-fin-a-cuentas-compartidas-estos-cambios-sus-argumentos</id>
+        <summary>Netflix va a poner fin a las cuentas compartidas tal y como las conocíamos. Su funcionamiento será mucho más restrictivo y se perseguirá a quienes comparten cuenta sin vivir en el mismo domicilio. El método específico sigue aún algo difuso y de hecho en Netflix parece haber cierto caos por eso, pero una cosa está clara: saben que esta persecución tendrá consecuencias, y quieren aliviarlas con una serie de cambios.</summary>
+      </entry>
+
+</feed>
